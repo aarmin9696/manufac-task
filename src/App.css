@@ -1,0 +1,32 @@
+body{
+  padding: 10% 35%;
+  background-color: rgb(56, 56, 56);
+}
+
+table {
+  width: 370px;
+  margin-bottom: 15%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+}
+
+/* Style table headers */
+table th {
+  background-color: #FFC107; 
+  border: 1px solid #626161; 
+  padding: 8px;
+  text-align: left;
+}
+
+/* Style table data cells */
+table td {
+  border: 1px solid #626161;
+  padding: 8px;
+  text-align: center;
+  font-size: 1rem;
+}
+
+
+table tr {
+  background-color: #FFEEBA; 
+}
