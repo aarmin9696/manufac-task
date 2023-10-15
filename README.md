@@ -7,16 +7,15 @@
 
 ## Installation
 
-1. **Clone the Repository:**
+1. **Clone the Repository:** - open terminal/bash
 
-   bash
    git clone https://github.com/aarmin9696/manufac-task.git
 
-2. Install Dependencies:
+1. Install Dependencies:
 
    yarn install
 
-3. Start the Development Server:
+2. Start the Development Server:
 
    yarn start
 
