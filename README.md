@@ -11,11 +11,13 @@
 
    git clone https://github.com/aarmin9696/manufac-task.git
 
-1. Install Dependencies:
+2. Open the folder in VS code or in any other tool, open terminal on it.
+
+3. Install Dependencies:
 
    yarn install
 
-2. Start the Development Server:
+4. Start the Development Server:
 
    yarn start
 
